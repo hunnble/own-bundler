@@ -1,0 +1,9 @@
+{
+  "name": "own-bundler",
+  "version": "0.0.1",
+  "description": "build your own bundler",
+  "main": "index.js",
+  "repository": "https://github.com/hunnble/own-bundler.git",
+  "author": "hunnble <hante_hunter@163.com>",
+  "license": "MIT"
+}
