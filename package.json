@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/hunnble/own-bundler.git",
   "author": "hunnble <hante_hunter@163.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/parser": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/traverse": "^7.4.5"
+  }
 }
